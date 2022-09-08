@@ -55,27 +55,27 @@ Genesis validator, but not in active set: <br />
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper1gjjqu6ykrfww43uqrv290zmr9j3t9rfnhdcffl)
 - [Clan](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1c9t2xur4sx7z5kerp8l8a978dl68fmdxrqegqc) 
 - [Deweb](https://explore.deweb.services/deweb/staking/dewebvaloper1assygaed22mh9ye98fp53y4gkxyx4cqaqd35ru)
-- [Islamic](https://testnet.manticore.team/haqq/staking/haqqvaloper18dvg9hgl9ngqakewcse203rwrmgd0evqmz7sxk)
+- [Haqq](https://testnet.manticore.team/haqq/staking/haqqvaloper18dvg9hgl9ngqakewcse203rwrmgd0evqmz7sxk)
 - [Kira]()
 - [Paloma](https://paloma.explorers.guru/validator/palomavaloper14kd965w29se5atw0fzmewr99gkjezk8gpvuu2x) 
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1u29z4l8ugjdwp2pm8luwntksh0p9n7dvq8zxs3)
 - [Rebus](https://rebus.explorers.guru/validator/rebusvaloper14dv684ed57cgehl5apcl56n2mqsypr7vqrmpvx)
 - [Sei](https://sei.explorers.guru/validator/seivaloper1cz28dzx8zcls720h2nnrd5x8a3kjqy95axhqy6)  
-- [Stride](https://poolparty.stride.zone/STRIDE/staking/stridevaloper136nl6lu4hvaus6l0lypzqq5gkd3dxvu5eaydk2) 
+- [Source](https://exp.nodeist.net/Source/staking/sourcevaloper120pps8apulyxne209hp33u6r66mae4knks4hke)  
 - [Teritori](https://explorer.ericet.xyz/teritori/staking/torivaloper1jje55u2pxmxe5d6rckaj0jszal39ckscdrc6yd)
-- [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1rk5lydrxykadmj8t692q47wtuqxx42l5gjjgpd)
+
 </details>
 
 <details>
   <summary>Active non-Cosmos Testnets</summary>
   
-- [Aptos](https://explorer.devnet.aptos.dev/account/0xd8f711edb40b96cc8c27c0997640b4727e9cdaa408cbfc916413a2315bc9e3ef) AIT-2
+- [Aptos](https://explorer.devnet.aptos.dev/account/0xb2243c6234285ca4ddba4927603750a0b2571d9453b1021c4cd4a0c34e045ecd?network=ait3) AIT-3
 - [BlockPi](http://testnet.explorer.blockpi.io/hypernode/0x626b57e2445e1e3cf13333349a9270f8203b901c?page=4&perPage=20)  
 - [Casper](https://testnet.cspr.live/validator/010a6b601408889363dc003943c9234e1bcd9ac074da385c45ff2cd4aa2c9283ce)
 - [Gear]()
 - [Masa]()
 - [Mundis]()
-- [Near]()
+- [Near](https://explorer.shardnet.near.org/accounts/cyptoq.factory.shardnet.near)
 - [Obol]()
 - [Solana](https://www.validators.app/validators/testnet/28LgQ7MeEZVgNJfYRc6UnoAz2SnSjKbyCKM6sntCRotb?locale=en&order=score&refresh=)
 - [Sui]()
@@ -98,6 +98,7 @@ Genesis validator, but not in active set: <br />
 - [Akash]()
 - [Aleo]()
 - [Anone](https://test-anone.zenscan.io/validator.php?addr=onevaloper1qvexpwgsav54wykncd03ky4k34h5qxv73pu2a3)
+- [Aptos](https://explorer.devnet.aptos.dev/account/0xd8f711edb40b96cc8c27c0997640b4727e9cdaa408cbfc916413a2315bc9e3ef) AIT-2
 - [Arable]()
 - [Archway]()
 - [Asset Mantle]()
@@ -135,7 +136,9 @@ Genesis validator, but not in active set: <br />
 - [PlatON]()
 - [Spacemesh]()
 - [StarkNet]()
+- [Stride](https://poolparty.stride.zone/STRIDE/staking/stridevaloper136nl6lu4hvaus6l0lypzqq5gkd3dxvu5eaydk2)
 - [Swarm]()
+- [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper1rk5lydrxykadmj8t692q47wtuqxx42l5gjjgpd)
 - [Zeigeist]()
 - [Zenon]()
 
